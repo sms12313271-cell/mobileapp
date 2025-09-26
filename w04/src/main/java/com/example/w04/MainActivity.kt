@@ -42,6 +42,7 @@ class MainActivity : ComponentActivity() {
 }
 
 // 프로필사진 지정
+// asdf
 @Composable()
 fun HomeScreen() {
     Column (
